@@ -5,3 +5,5 @@ Just added and committed this file to repo. Also created a template file to use 
 Learn something. Use present tense instead of past tense in commit message. Helps keeping things simple.
 Now trying out diff, see what happens. 
 Now making changes on this stupid file on github UI. Let's paly around and then check what happens. 
+So we did a git pull at some point and are good. But now, I've done more things, we have a branch somewhere, with a different user name and I'm writing stories there. Let's see how git merges thing. 
+
