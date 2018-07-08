@@ -3,3 +3,4 @@ It's been a while I really do something interesting and have forgotton a bunch o
 This file is being created, just to add it to staging and see how that works out. 
 Just added and committed this file to repo. Also created a template file to use format but I'm not sure how to enforce that. I guess we will need to learn. There are some URLs that describe pre commit hook. In the git commit man page there is -t or --template option. It also talks about a commit.template environment variable. We will check once we do that.
 Learn something. Use present tense instead of past tense in commit message. Helps keeping things simple.
+Now trying out diff, see what happens. 
