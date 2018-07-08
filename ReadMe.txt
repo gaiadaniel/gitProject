@@ -6,4 +6,5 @@ Learn something. Use present tense instead of past tense in commit message. Help
 Now trying out diff, see what happens. 
 Now making changes on this stupid file on github UI. Let's paly around and then check what happens. 
 So we did a git pull at some point and are good. But now, I've done more things, we have a branch somewhere, with a different user name and I'm writing stories there. Let's see how git merges thing. 
-
+Now serious shit, I'm changing this file again, and I think there is going to be a conflict. That will be fun.
+ 
